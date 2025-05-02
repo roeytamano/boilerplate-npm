@@ -12,6 +12,7 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
+	"description": "A project that does something awesome",
 	"devDependencies": {
 		"nodemon": "^3.1.10"
 	}
